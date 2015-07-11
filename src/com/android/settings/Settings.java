@@ -183,4 +183,5 @@ public class Settings extends SettingsActivity {
     public static class LockscreenDashboardActivity extends SettingsActivity {}
     public static class SwipeToNotificationSuggestionActivity extends SettingsActivity { /* empty */ }
     public static class DevRunningServicesActivity extends SettingsActivity { /* empty */ }
+    public static class VolumeStepsFragmentActivity extends SettingsActivity { /* empty */ }
 }

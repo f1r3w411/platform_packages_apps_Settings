@@ -272,4 +272,6 @@
     <!-- Allow to quickly open Running Services from QS panel -->
     <string name="background_processes_settings_title">Background processes</string>
 
+    <string name="volumesteps_title">Volume Steps</string>
+
 </resources>
