@@ -68,6 +68,10 @@
             settings:userRestriction="no_ambient_display" />
 
         <Preference
+            android:key="ambient_display_custom"
+            android:title="@string/advanced_settings" />
+
+        <Preference
             android:key="ambient_display_tap"
             android:title="@string/ambient_display_tap_screen_title"
             android:fragment="com.android.settings.gestures.TapScreenGestureSettings"
