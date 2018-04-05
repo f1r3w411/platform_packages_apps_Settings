@@ -49,6 +49,9 @@
     <string name="derpquest_title">DerpQuest</string>
     <string name="derpquest_activity_summary">In Kronic we trust...</string>
 
+    <!-- Title for connected TWS device group [CHAR LIMIT=none]-->
+    <string name="connected_tws_device_saved_title">Saved Earbuds</string>
+
     <!-- Summary text for system preference tile, showing important setting items under system setting [CHAR LIMIT=NONE]-->
     <string name="system_dashboard_custom_summary">Languages, updater, time, backup</string>
 
