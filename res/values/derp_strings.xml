@@ -28,6 +28,13 @@
     <!-- DerpFest Version -->
     <string name="derp_version">DerpFest Build</string>
 
+    <!-- DerpFest Build types -->
+    <string name="build_type">Build Type</string>
+    <string name="derp_official">Official</string>
+    <string name="derp_beta">Beta</string>
+    <string name="derp_private">Private</string>
+    <string name="derp_community">Community</string>
+
     <!-- String for removal of sensitive info on about, depending on tap -->
     <string name="device_info_protected_single_press">Tap to show info</string>
 
