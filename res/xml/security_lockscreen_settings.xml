@@ -108,6 +108,12 @@
             android:summary="@string/pulse_on_new_tracks_summary"
             settings:controller="com.android.settings.display.PulseOnNewTracksPreferenceController" />
 
+        <com.derp.support.preference.SecureSettingSwitchPreference
+            android:key="doze_on_charge"
+            android:title="@string/doze_on_charge_title"
+            android:summary="@string/doze_on_charge_summary"
+            android:defaultValue="false" />
+
     </PreferenceCategory>
 
     <!-- Work profile settings are at the bottom with high order value to avoid users thinking that
