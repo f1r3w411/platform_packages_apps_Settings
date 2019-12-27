@@ -242,4 +242,11 @@
     <string name="back_height_message">Höhe des Bildschirms, der als berührbare Region für die Zurück-Geste verwendet wird.</string>
     <string name="back_block_ime_title">Blockiere die Höhe der Tastatur als berührbare Region für die Zurück-Geste</string>
 
+    <!-- NavigationBar Gestural Mode Tweaks -->
+    <string name="navbar_gesture_mode_category_title">Gestenmodus Anpassungen</string>
+    <string name="navbar_gesture_mode_category_key">gesture_mode_tweaks</string>
+    <string name="navbar_gesture_pill_toggle_title">Bildschirmgesten</string>
+    <string name="navbar_gesture_pill_toggle_summary">Dies wird die Navigationsleiste also auch den pillenförmigen Button für ein nahtloses Vollbild Navigationserlebnis ausblenden.</string>
+    <string name="navbar_gesture_pill_toggle_summary_disabled">Diese Option ist nur für die Gesten-Navigation verfügbar!</string>
+
 </resources>
