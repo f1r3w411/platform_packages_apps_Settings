@@ -10073,11 +10073,6 @@
     <!-- Notification log debug tool: the word 'none' -->
     <string name="notification_log_details_ranking_none">Ranking object doesn\'t contain this key.</string>
 
-    <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the settings category for theme overlays. -->
-    <string name="theme_customization_category">Theming</string>
-    <!-- [CHAR_LIMIT=NONE] Developer Settings: Label for the option that turns off customizations for a given category.-->
-    <string name="theme_customization_device_default">Device default</string>
-
     <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the setting which turns on emulation of a display cutout. -->
     <string name="display_cutout_emulation">Display cutout</string>
 
