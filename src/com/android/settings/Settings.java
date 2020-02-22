@@ -180,5 +180,6 @@ public class Settings extends SettingsActivity {
 
     // DerpQuest Settings
     public static class DerpQuestSettingsActivity extends SettingsActivity {}
+    public static class LockscreenDashboardActivity extends SettingsActivity {}
     public static class SwipeToNotificationSuggestionActivity extends SettingsActivity { /* empty */ }
 }
