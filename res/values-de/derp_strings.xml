@@ -174,23 +174,6 @@
     <string name="double_tap_to_sleep_title">Statusleiste doppeltippen für Ruhemodus</string>
     <string name="double_tap_to_sleep_summary">Die Statusleiste doppelt antippen, um das Gerät in den Ruhemodus zu versetzen</string>
 
-    <!-- Long swipe gestures -->
-    <string name="navbar_gesture_tweaks_pref_title">Erweiterte Gesten</string>
-    <string name="navbar_gesture_tweaks_pref_summary">Gesten anpassen und benutzerdefinierte Aktionen festlegen</string>
-    <string name="navbar_gesture_tweaks_cat_title">Erweitert</string>
-    <string name="long_back_swipe_timeout_title">Timeout für lange Wischgeste</string>
-    <string name="left_swipe_actions_title">Lange Wischgeste von links</string>
-    <string name="left_swipe_app_action_title">App wählen für lange Wischgeste von links</string>
-    <string name="right_swipe_actions_title">Lange Wischgeste von rechts</string>
-    <string name="right_swipe_app_action_title">App wählen für lange Wischgeste von rechts</string>
-    <string name="left_vertical_swipe_actions_title">Vertikale Wischaktion nach links</string>
-    <string name="left_vertical_swipe_app_action_title">Wählen Sie die vertikale Linkswisch-App</string>
-    <string name="right_vertical_swipe_actions_title">Vertikale Wischaktion nach rechts</string>
-    <string name="right_vertical_swipe_app_action_title">Wählen Sie die vertikale Rechtswisch-App</string>
-    <string name="gesture_nav_tweaks_footer_info">Um eine bestimmte App-Aktivität für die Aktion auszuwählen, drücke lange auf eine App in der Apps-Auswahl.\n\nWenn der Launcher angezeigt wird, wische ganz unten auf dem Bildschirmrand, um die Aktion auszulösen.</string>
-    <string name="back_swipe_extended_title">Erweiterte Wischgeste</string>
-    <string name="back_swipe_extended_summary">Auslösen einer Aktion bei einem breiteren Wischen (mehr als die Hälfte der Anzeigegröße) oder einem L-Wischen (vertikal länger genug)</string>
-
     <!-- Themes -->
     <string name="theme_category">Designs</string>
     <string name="theme_select_title">Themen</string>
