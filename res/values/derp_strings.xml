@@ -49,6 +49,9 @@
     <string name="derpquest_title">DerpQuest</string>
     <string name="derpquest_activity_summary">In Kronic we trust...</string>
 
+    <!-- Summary text for system preference tile, showing important setting items under system setting [CHAR LIMIT=NONE]-->
+    <string name="system_dashboard_custom_summary">Languages, updater, time, backup</string>
+
     <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the settings category for theme overlays. -->
     <string name="theme_customization_category">Theming</string>
     <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the setting which enables overlays to customize accent color. -->
