@@ -248,6 +248,11 @@
     <string name="vibrate_on_notifications_title">Notification vibration</string>
     <string name="vibrate_on_notifications_summary">Vibrate on notifications</string>
 
+    <!-- Brightness control -->
+    <string name="status_bar_brightness_screen_title">Statusbar brightness</string>
+    <string name="statusbar_brightness_title">Brightness</string>
+    <string name="statusbar_brightness_summary">Adjust brightness by sliding across the status bar</string>
+
     <!-- Back Gesture Height -->
     <string name="back_height_low_label">Full</string>
     <string name="back_height_high_label">Bottom</string>
